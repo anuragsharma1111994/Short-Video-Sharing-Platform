@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-tiktok-dev-114518-authRole",
+      "UnauthRoleArn": "arn:aws:iam::732964930474:role/amplify-tiktok-dev-114518-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::732964930474:role/amplify-tiktok-dev-114518-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-tiktok-dev-114518-deployment",
+      "UnauthRoleName": "amplify-tiktok-dev-114518-unauthRole",
+      "StackName": "amplify-tiktok-dev-114518",
+      "StackId": "arn:aws:cloudformation:us-east-1:732964930474:stack/amplify-tiktok-dev-114518/169ec4d0-3f66-11eb-9b3a-0a4ced5e22b5",
+      "AmplifyAppId": "d20mrpzlfe0zu9"
+    }
+  }
+}
